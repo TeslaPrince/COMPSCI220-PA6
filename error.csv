@@ -1,0 +1,9 @@
+EmployeeID,Error Code
+789-34562,java.util.InputMismatchException
+99-34962,java.lang.Exception: Incorrect Employee ID Format
+929-34562-23,java.lang.Exception: Incorrect Employee ID Format
+34564,java.lang.Exception: Incorrect Employee ID Format
+345-3456,java.lang.Exception: Incorrect Employee ID Format
+112-87657,java.lang.Exception: Date of birth is in future
+182-87057,java.lang.Exception: Date of joining is in future
+145-27057,java.lang.Exception: Date of joining is before date of birth
